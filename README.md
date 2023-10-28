@@ -33,5 +33,15 @@ The aim of this project is to create a gesture-controlled lock, providing users 
 
 ### Built With
 
+- C++
+- Serial Peripheral Interface(SPI) Communication
+- Moving Average Filter
+- Arduino
+- Adafruit CircuitPlayground
 
 ### Technologies Used
+
+- Microsoft Visual Studio Code
+- ATMega32u4
+- LIS3DH Triple-Axis Accelerometer
+- MEMS Microphone
