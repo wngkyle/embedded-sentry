@@ -42,6 +42,6 @@ The aim of this project is to create a gesture-controlled lock, providing users 
 ### Technologies Used
 
 - Microsoft Visual Studio Code
-- ATMega32u4
+- ATMega32u4 Processor
 - LIS3DH Triple-Axis Accelerometer
 - MEMS Microphone
